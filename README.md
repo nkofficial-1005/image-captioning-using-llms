@@ -19,4 +19,4 @@ This project leverages the power of Microsoft's Phi-3-Vision-128K-Instruct model
 - Use the model to turn images into descriptive captions that can be customized based on user input.
 
 ## License
-This project is made available under the MIT License. For more details, see the [LICENSE](LICENSE.md) file in this repository.
+This project is made available under the MIT License. For more details, see the [LICENSE](LICENSE) file in this repository.
